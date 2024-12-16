@@ -1,42 +1,8 @@
-# Hasil Perhitungan Waktu Eksekusi  
-
-# Nama: Syahril FItrawan Abadi  
-# Stambuk: F55123054  
-# Kelas: B
-
-# Format:
-# n: [ukuran array]
-# Worst Case: [waktu eksekusi worst case dalam detik]
-# Average Case: [waktu eksekusi average case dalam detik]
-
-n = 100
-Worst Case: 0.0000038000 s
-Average Case: 0.0000048000 s
-
-n = 150
-Worst Case: 0.0000040000 s
-Average Case: 0.0000060000 s 
-
-n = 200
-Worst Case: 0.0000052000 s
-Average Case: 0.0000060000 s
-
-n = 250
-Worst Case:  0.0000048000 s 
-Average Case: 0.0000069000 s
-
-n = 300
-Worst Case: 0.0000085000 s
-Average Case: 0.0000082000 s
-
-n = 350
-Worst Case: 0.0000078000 s
-Average Case: 0.0000134000 s
-
-n = 400
-Worst Case: 0.0000125000 s
-Average Case: 0.0000100000 s
-
-n = 500
-Worst Case: 0.0000117000 s
-Average Case: 0.0000112000 s
+Size = 100, Worst: 0.0000087000 s, Avg: 0.0000119000 s
+Size = 150, Worst: 0.0000876000 s, Avg: 0.0000120000 s
+Size = 200, Worst: 0.0000079000 s, Avg: 0.0000136000 s
+Size = 250, Worst: 0.0000115000 s, Avg: 0.0000148000 s
+Size = 300, Worst: 0.0000129000 s, Avg: 0.0000120000 s
+Size = 350, Worst: 0.0000152000 s, Avg: 0.0000171000 s
+Size = 400, Worst: 0.0000149000 s, Avg: 0.0000179000 s
+Size = 500, Worst: 0.0000133000 s, Avg: 0.0000147000 s
